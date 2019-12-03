@@ -12,7 +12,7 @@ html, body {
 }
 
 /* Mobile view */
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
 
   .main {
     width: 100%;
