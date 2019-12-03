@@ -78,13 +78,13 @@ padding-top: 25px;
   margin-left: 15px;
 }
 .about .icon .icon-box i{
-  font-size: 24px;
+/*   font-size: 24px;
   border-radius: 50%;
   height: 35px;
   width: 35px;
   padding-top: 12px;
   background-color: white;
-  text-align: center;
+  text-align: center; */
 }
 .about .icon .icon-box .fa-instagram{
 color: #222222;
@@ -98,16 +98,7 @@ color: #222222;
 .about .icon .icon-box .fa-twitter{
   color:  #1DA1F2;
 }
-.about p{
-  font-size:22px ;
-  color: white;
-  font-weight: 500;
-}
-.about .form{
-border:0px solid red;
 
-
-}
 .about .btn-say{
   text-decoration:none;
   border:1px solid #ffffff;
