@@ -12,7 +12,7 @@ html, body {
 }
 
 /* Tablet view */
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
 
   .main {
     width: 100%;
