@@ -11,8 +11,8 @@ html, body {
 
 }
 
-/* Mobile view */
-@media screen and (max-width: 480px) {
+/* Tablet view */
+@media only screen and (min-width: 480px) {
 
   .main {
     width: 100%;
