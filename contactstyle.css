@@ -1,0 +1,136 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-main{
+  height: 700px;
+}
+
+.contact-main .main-wrap {
+  width: 100%;
+  height: 100%;
+  /* background: linear-gradient(to bottom, #ed213a 0%, #93291e 100%); */
+    background: #100D47;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#header {
+  border: 0px solid red;
+  height: 80px;
+  padding: 15px;
+}
+
+#header .logo {
+  display: inline-block;
+}
+
+#header .logo h1 {
+  color: white;
+  padding-left: 10px;
+}
+
+#header .menu {
+  float: right;
+  padding-right: 10px;
+
+}
+
+#header .menu p {
+  color: gray;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 15px;
+
+
+}
+
+#header .menu p>a {
+  text-decoration: none;
+  color: white;
+  padding: 3px;
+}
+#header .menu a:hover {
+    border:1px solid white;
+}
+.about{
+text-align: center;
+
+}
+.about .about-container{
+  width: 400px;
+}
+.about h1{
+  font-weight: 300;
+  color: white;
+}
+.about .icon {
+padding-top: 25px;
+}
+.about .icon .icon-box{
+  display: inline-block;
+  margin-left: 15px;
+}
+.about .icon .icon-box i{
+  font-size: 24px;
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  padding-top: 12px;
+  background-color: white;
+  text-align: center;
+}
+.about .icon .icon-box .fa-instagram{
+color: #222222;
+
+
+
+}
+.about .icon .icon-box .fa-github{
+  color: #333;
+}
+.about .icon .icon-box .fa-twitter{
+  color:  #1DA1F2;
+}
+.about p{
+  font-size:22px ;
+  color: white;
+  font-weight: 500;
+}
+.about .form{
+border:0px solid red;
+
+
+}
+.about .form input{
+text-align: center;
+
+}
+.about .form .text input[type="text"]
+{
+  border:
+color:;
+  padding: 8px 25px;
+  margin: 5px 0;
+
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+}
+.about .form .submit input[type="submit"]
+{
+color: #ed213a;
+background-color: white;
+  padding: 8px 20px;
+  margin: 5px 0;
+
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+}
