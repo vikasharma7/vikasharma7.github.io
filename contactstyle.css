@@ -108,29 +108,10 @@ border:0px solid red;
 
 
 }
-.about .form input{
-text-align: center;
-
-}
-.about .form .text input[type="text"]
-{
-  border:
-color:;
-  padding: 8px 25px;
-  margin: 5px 0;
-
-  border: 1px solid #ccc;
-  box-sizing: border-box;
-
-}
-.about .form .submit input[type="submit"]
-{
-color: #ed213a;
-background-color: white;
-  padding: 8px 20px;
-  margin: 5px 0;
-
-  border: 1px solid #ccc;
-  box-sizing: border-box;
+.btn-say{
+  text-decoration:none;
+  border:1px solid gray;
+  padding:5px 12px;
+  color:white;
 
 }
