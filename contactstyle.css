@@ -78,7 +78,7 @@ padding-top: 25px;
   margin-left: 15px;
 }
 .about .icon .icon-box i{
- font-size: 24px;
+ font-size: 32px;
   /*  border-radius: 50%;
   height: 35px;
   width: 35px;
@@ -86,7 +86,13 @@ padding-top: 25px;
   background-color: white;
   text-align: center; */
 }
-.about .icon .icon-box .fa-instagram{
+/* icon  */
+
+.about .icon .icon-box {
+  color:#ffffff:
+}
+
+/* .about .icon .icon-box .fa-instagram{
 color: #222222;
 
 
@@ -97,7 +103,7 @@ color: #222222;
 }
 .about .icon .icon-box .fa-twitter{
   color:  #1DA1F2;
-}
+} */
 
  .btn-say{
   text-decoration:none;
