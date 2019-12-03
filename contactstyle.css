@@ -78,8 +78,8 @@ padding-top: 25px;
   margin-left: 15px;
 }
 .about .icon .icon-box i{
-/*   font-size: 24px;
-  border-radius: 50%;
+ font-size: 24px;
+  /*  border-radius: 50%;
   height: 35px;
   width: 35px;
   padding-top: 12px;
@@ -99,7 +99,7 @@ color: #222222;
   color:  #1DA1F2;
 }
 
-.about .btn-say{
+ .btn-say{
   text-decoration:none;
   border:1px solid #ffffff;
   padding:5px 12px;
