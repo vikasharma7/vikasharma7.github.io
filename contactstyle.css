@@ -110,8 +110,9 @@ border:0px solid red;
 }
 .btn-say{
   text-decoration:none;
-  border:1px solid gray;
+  border:1px solid #ffffff;
   padding:5px 12px;
   color:white;
+  margin-top:30px;
 
 }
