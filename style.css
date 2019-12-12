@@ -8,7 +8,7 @@ html, body {
   padding: 0px;
   margin: 0px;
   font-family: 'Montserrat', sans-serif;
-   background-color: #fb4438;
+/*    background-color: #fb4438; */
 
 }
 
@@ -109,7 +109,7 @@ h1{
   .main {
     width: 100%;
     height: 100%;
-      background-color: #fc4438;
+      background-color: #fb4438;
     
   }
   .main  .container {
