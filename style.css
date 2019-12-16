@@ -109,7 +109,7 @@ h1{
   .main {
     width: 100%;
     height: 100%;
-      background-color: #0000000;
+      background-color: #ffffff;
     
   }
   .main  .container {
@@ -139,7 +139,7 @@ h1{
   }
 
   #header .logo h1 {
-    color: #1413db;
+    color: #100D47;
     text-aling:Left;
 
   }
@@ -190,7 +190,7 @@ height: 100%;
   .home-about .home-about-content i {
     margin-top: 24px;
     font-size: 24px;
-    color: #fafafa;
+    color: #100D47;
     padding-left: 12px;
     text-align: center;
   }
