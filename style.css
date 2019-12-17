@@ -139,7 +139,7 @@ h1{
   }
 
   #header .logo h1 {
-    color: #100D47;
+    color: #6C1665;
     text-aling:Left;
 
   }
@@ -175,12 +175,12 @@ height: 100%;
     margin-top: 32px;
   }
   .home-about .home-about-content h1 {
-    color: white;
+    color: #6C1665;
     margin: 0px;
 
   }
   .home-about .home-about-content p {
-    color: white;
+    color: #6C1665;
     opacity: 70%;
     font-size: 22px;
 
