@@ -186,7 +186,11 @@ height: 100%;
     font-size: 22px;
 
   }
+  .home-about .home-about-content h3 {
+    color: #282E3F;
+    margin: 0px;
 
+  }
 
   .home-about .home-about-content i {
     margin-top: 24px;
